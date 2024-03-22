@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin título</title>
+<style type="text/css">
+.TITULO {
+	color: #FFF;
+	text-align: center;
+}
+.PARAFO {
+	text-align: center;
+}
+.PARAFO {
+	text-align: left;
+}
+.PARAFO {
+	color: #FFF;
+	text-align: center;
+}
+.PARAFO .PARAFO {
+	font-family: "MS Serif", "New York", serif;
+}
+</style>
+</head>
+
+<body bgcolor="#003333">
+<h1 class="TITULO">PAGINA HECHA Y ELABORADA POR LOS SIGUIENTES INTEGRANTES
+</h1>
+<p>&nbsp;</p>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <blockquote>
+                  <blockquote>
+                    <blockquote>
+                      <blockquote>
+                        <p class="PARAFO"><span class="PARAFO"><span class="PARAFO">NOEMI   VARGUES</span></span></p>
+                        <p class="PARAFO"><span class="PARAFO"><span class="PARAFO">GERARDO TAMAY</span></span></p>
+                        <p class="PARAFO"><span class="PARAFO"><span class="PARAFO">RODRIGO ALCOCER</span></span></p>
+                        <p class="PARAFO">&nbsp;</p>
+                        <p class="PARAFO">&nbsp;</p>
+                      </blockquote>
+                    </blockquote>
+                  </blockquote>
+                  <p class="PARAFO">GRACIAS POR SU ATENCION</p>
+                </blockquote>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+</body>
+</html>

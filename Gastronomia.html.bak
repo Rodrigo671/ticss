@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>GASTRONOMIA</title>
+<style type="text/css">
+/* Estilos para hacer los botones llamativos */
+body {
+	border: 4px solid #000000; /* Borde negro alrededor de toda la página */
+	padding: 20px; /* Espacio interior para que el contenido no se pegue al borde */
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.container {
+  text-align: center; /* Centra los elementos */
+}
+
+.button {
+  display: inline-block;
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Borde negro */
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  margin: 20px 10px; /* Espaciado entre botones */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.subtitulo strong {
+	color: #000;
+}
+.k {
+	color: rgb(0,0,0);
+}
+v {
+	color: #000;
+}
+.hh {
+	color: rgb(0,0,0);
+}
+.ty {
+	font-weight: bold;
+}
+.sss {
+	text-align: center;
+}
+.fff {
+	text-align: center;
+}
+</style>
+</head>
+
+<body bgcolor="#FFCC66">
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <blockquote>
+                  <h1 class="ty"><span class="sss">Gastronomía de Yucatán </span></h1>
+                </blockquote>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+<p class="ty">Por gastronomía de Yucatán se entiende específicamente la tradición culinaria del Estado de Yucatán, en México, aunque en un sentido amplio sus técnicas e ingredientes pertenecen en su conjunto a la gastronomía del sureste de este país. </p>
+<p class="ty"></p>
+<p class="ty">Bebidas: pox, licor de henequén, xtabentún, balché, horchata de coco </p>
+<p class="ty">Ingredientes: maíz, frijol, chile habanero de Yucatán, chile xcatik, recado rojo, jitomate, chaya</p>
+<p class="ty">Platos: cochinita pibil, sopa de lima, poc chuc, mukbil pollo, queso relleno </p>
+<p class="ty">Sistema culinario: mesoamericano</p>
+<p class="ty"> Territorio: Península de Yucatán (Yucatán, Quintana Roo y Campeche), México</p>
+<p class="ty">Platillos</p>
+<p>&nbsp;</p>
+<p class="hh" style="box-sizing: border-box; margin: 20px 0px !important; color: rgb(0,0,0); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Algunos platillos típicos yucatecos son:</strong></p>
+<ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+  <li class="hh" style="box-sizing: border-box;"><strong>Puchero</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Relleno blanco</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>El Papak-tsul</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Escabeche negro de Valladolid</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Salpimentado</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Cochinita pibil</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Tamales de pollo o de gallina</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Relleno negro</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Salbutes</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Pescado en Tikin-Xic</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Sopa de lima</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Poc chuc</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Mucbipollo - Pib</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Panuchos</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Huevos motuleños</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Frijol con puerco</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Queso Relleno</strong></li>
+  <li class="hh" style="box-sizing: border-box;"><strong>Longaniza de Valladolid</strong></li>
+</ul>
+<p class="subtitulo" style="box-sizing: border-box; margin: 20px 0px !important; font-size: 18px; font-weight: bold; color: rgb(31, 52, 100); border-bottom: 1px solid rgb(221, 221, 221); font-family: 'Source Sans Pro'; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>La panificación con masa de harina de trigo</strong></p>
+<p style="box-sizing: border-box; margin: 20px 0px !important; color: rgb(0,0,0); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Siendo tan escaso el trigo, el pan solo se elaboraba en los conventos. Entre los frailes, nunca faltaron expertos cocineros y reposteros que no solo confeccionaban las comidas cotidianas, sino también panes, tortas, pasteles y dulces que servían de postre a sus comidas. Entre los frailes se generalizó también, el uso del cacao molido, con el que confeccionaban el chocolate: una bebida espumosa y aromática.</strong></p>
+<p class="subtitulo" style="box-sizing: border-box; margin: 20px 0px !important; font-size: 18px; font-weight: bold; color: rgb(31, 52, 100); border-bottom: 1px solid rgb(221, 221, 221); font-family: 'Source Sans Pro'; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>La dulcería</strong></p>
+<p class="k" style="box-sizing: border-box; margin: 20px 0px !important; color: rgb(0,0,0); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Los primeros profesores en repostería fueron las monjas concepcionistas que establecieron su convento en Mérida en 1596, y que enseñaban también a sus educandas labores de aguja, bordados, tejidos, repostería y dulces. Del convento salían expertas maestras en la confección de la dulcería criolla. Llevaron a sus hogares ese exquisito arte y establecieron después de la extinción del convento de concepcionistas en 1867, pequeñas industrias con que se ganaban la vida.</strong></p>
+<p class="k" style="box-sizing: border-box; margin: 20px 0px !important; color: rgb(0,0,0); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Algunos dulces típicos yucatecos son:</strong></p>
+<ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Source Sans Pro'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+  <li class="k" style="box-sizing: border-box;"><strong>El mazapán de almendras</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>Las bolas de huevo</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>Los zapotitos</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>El alfeñique</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>Las bizcotelas y roscas nevadas</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>Los dulces de anís</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>El dulce de coco seco</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>El dulce seco de pepita y el de cacahuate</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>La pasta de guayaba y la de guanábana</strong></li>
+  <li class="k" style="box-sizing: border-box;"><strong>Dulces de almíbar</strong></li>
+</ul>
+<p class="subtitulo" style="box-sizing: border-box; margin: 20px 0px !important; font-size: 18px; font-weight: bold; color: rgb(31, 52, 100); border-bottom: 1px solid rgb(221, 221, 221); font-family: 'Source Sans Pro'; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Licores</strong></p>
+<p style="box-sizing: border-box; margin: 20px 0px !important; color: rgb(0,0,0); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><strong>Después de la Conquista los españoles trajeron del áfrica la caña de azúcar, originaria de la India y se fueron estableciendo plantaciones de caña en el sur y oriente, donde los terrenos eran más fértiles, surgiendo la elaboración del azúcar y el alcohol o ron de caña. Con lento proceso se han ido fabricando otras bebidas alcohólicas. En Valladolid se destila el ron de caña; y con la miel que liban las abejas de la flor de una enredadera llamada Xtabentún se destila en un alambique, con anís en grano, un licor transparente y finísimo, semejante al anisete, que es dulce y sabroso. También se fabrica una mistela, llamada de yerbabuena o verdín, con esa yerba aromática. Y además, la mistela de naranja, con cáscara de naranja y anís.</strong></p>
+<p>&nbsp;</p>
+<p class="fff"><img src="gastronomia/descargar (1).jpg" width="258" height="196" /><img src="gastronomia/descargar (2).jpg" width="254" height="198" /><img src="gastronomia/descargar.jpg" width="275" height="183" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p class="DERECHA"><button class="button" onclick="window.location.href='index.HTML'">REGRESAR</button></p>
+</body>
+</html>
